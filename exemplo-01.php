@@ -28,5 +28,6 @@ fwrite($file, $content);
 
 fclose($file);
 
-
 ?>
+
+<img src="<?=$basename?>">
